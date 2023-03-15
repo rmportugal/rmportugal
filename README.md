@@ -5,8 +5,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmportugal/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Portuga#8768)
 
-![Rainan Portugal GitHub stats](https://github-readme-stats.vercel.app/api?username=rmportugal&show_icons=true&theme=chartreuse-dark)
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmportugal&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div align="center">
+  <a href="https://github.com/Boyce22">
+    <img align="center" min-width="450px" max-width="450px" width="430px" src="https://github-readme-stats.vercel.app/api?username=rmportugal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false" />
+    <img align="center" min-width="385px" max-width="385px" width=385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmportugal&layout=compact&langs_count=7&theme=rose_pine" />
+  </a>
+</div>
 
 
 <div align="center">
