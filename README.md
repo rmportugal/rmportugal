@@ -6,11 +6,12 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Portuga#8768)
 
 <div align="center">
-  <a href="https://github.com/Boyce22">
+  <a href="https://github.com/rmportugal">
     <img align="center" min-width="450px" max-width="450px" width="430px" src="https://github-readme-stats.vercel.app/api?username=rmportugal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false" />
     <img align="center" min-width="385px" max-width="385px" width=385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmportugal&layout=compact&langs_count=7&theme=rose_pine" />
   </a>
 </div>
+
 
 
 <div align="center">
@@ -27,6 +28,7 @@
     <img align="center" alt="Boyce.Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
   </p>
 </div>
+
 
 ![Snake animation](https://github.com/rmportugal/rmportugal/blob/output/github-contribution-grid-snake.svg)
 
