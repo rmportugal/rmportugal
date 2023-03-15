@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Portuga#8768)
 
 ![Rainan Portugal GitHub stats](https://github-readme-stats.vercel.app/api?username=rmportugal&show_icons=true&theme=chartreuse-dark)
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmportugal88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmportugal&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
 
 <div align="center">
