@@ -11,7 +11,5 @@
 
 ![Rainan Portugal GitHub stats](https://github-readme-stats.vercel.app/api?username=rmportugal&show_icons=true&theme=chartreuse-dark)
 
-
-
 ![snake gif](https://github.com/rmportugal/rmportugal/blob/output/github-contribution-grid-snake.svg)
 
