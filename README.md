@@ -23,5 +23,5 @@
   </p>
 </div>
 
-![snake gif](https://github.com/rmportugal/rmportugal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rmportugal/rmportugal/blob/output/github-contribution-grid-snake.svg)
 
