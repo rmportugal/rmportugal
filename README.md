@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Rainan Portugal</h1>
+<h1 align="center">Hi 👋, I'm Rainan Portugal</h1>
 + Junior Full Stack Developer at Serratec
 <h3 align="left">Connect with me:</h3>
 <p align="left">
